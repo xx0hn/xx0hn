@@ -2,7 +2,8 @@
 
 <p align="center">🇰🇷</p>
 
-<h4 algin="center"> 🖐Hi there! I'm a growing backend developer.
+<h4 align="center"> 🖐 Hi there!</h4>
+I'm a growing backend developer.
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
