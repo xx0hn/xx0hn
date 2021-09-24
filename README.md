@@ -28,7 +28,7 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center"> 🎯 Blog 🎯</h3>
 
 <div align="center" style="text-align:center">
   
