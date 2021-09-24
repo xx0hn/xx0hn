@@ -39,7 +39,7 @@
 <br>
 
 
-<h3 align="center"> 🫐 My Pages 🫐 </h3>
+<h3 align="center"> 🫐 My Records 🫐 </h3>
 <p align="center">
   <a href="https://velog.io/@xx0hn"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xx0hn"/></a>&nbsp
   <a href="https://www.instagram.com/xx0hn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xx0hn/"/></a>&nbsp
