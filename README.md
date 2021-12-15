@@ -5,8 +5,8 @@
 <h4 align="center"> 🖐 Hi there!</h4>
 <p align="center"> I'm a growing backend developer. </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xx0hn&" alt="xx0hn" /></p>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx0hn&" alt="xx0hn" /></p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
