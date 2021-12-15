@@ -1,7 +1,7 @@
 <p align="center">🇰🇷</p>
 
 <h4 align="center"> 🖐 Hi there!</h4>
-<p align="center"> I'm a growing backend developer. </p>
+<p align="center"> I'm seunghwan Hwang. </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx0hn&" alt="xx0hn" /></p>
@@ -42,7 +42,7 @@
 <br>
 
 
-<h3 align="center"> 🫐 My Records 🫐 </h3>
+<h3 align="center"> 🔥 Click 🔥 </h3>
 <p align="center">
   <a href="https://velog.io/@xx0hn"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xx0hn"/></a>&nbsp
   <a href="https://www.instagram.com/xx0hn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xx0hn/"/></a>&nbsp
