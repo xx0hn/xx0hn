@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="center">⭐ Recent Post ⭐</h3>
+<h3 align="center">⭐ My Blog ⭐</h3>
 
 <div align="center" style="text-align:center">
   
