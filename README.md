@@ -1,4 +1,4 @@
-<h4 align="center"> 안녕하세요, 꾸준한 개발자 황승환입니다.🙋🏻‍♂️ </h4>
+<h4 align="center"> 안녕하세요. 꾸준한 개발자 황승환입니다.🙋🏻‍♂️ </h4>
 <br>
 
 <p align="center">
