@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="center">⭐ My Blog ⭐</h3>
+<h3 align="center">⭐ Velog.io/@xx0hn ⭐</h3>
 
 <div align="center" style="text-align:center">
   
