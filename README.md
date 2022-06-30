@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="center">⭐ Velog ⭐</h3>
+<h3 align="center">⭐ My Velog ⭐</h3>
 
 <div align="center" style="text-align:center">
   
