@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/shell-5391FE?style=flat-square&logo=powershell&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
-  
 
 </p>
 
@@ -41,7 +40,6 @@
 </div>
   
 <br>
-
 
 <h3 align="center"> 📞 Contact 📞 </h3>
 <p align="center">
