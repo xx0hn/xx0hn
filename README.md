@@ -24,10 +24,13 @@
   <img src="https://img.shields.io/badge/shell-5391FE?style=flat-square&logo=powershell&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 
+
 </p>
+
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx0hn&" alt="xx0hn" /></p> -->
+
 
 <br>
 
@@ -39,6 +42,7 @@
   
 </div>
   
+
 <br>
 
 <h3 align="center"> 📞 Contact 📞 </h3>
