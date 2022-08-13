@@ -34,7 +34,7 @@
 
 <br>
 
-<h3 align="center">⭐ My Tech Velog ⭐</h3>
+<h3 align="center">⭐ My Tech Blog ⭐</h3>
 
 <div align="center" style="text-align:center">
   
