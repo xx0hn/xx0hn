@@ -27,13 +27,11 @@
 
 </p>
 
-
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx0hn&" alt="xx0hn" /></p> -->
 
 
 <br>
-
 <h3 align="center">📚 Tech Blog 📚</h3>
 
 <div align="center" style="text-align:center">
@@ -41,8 +39,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xx0hn)](https://velog.io/@xx0hn)
   
 </div>
-  
-
+ 
 <br>
 
 <h3 align="center"> 📞 Contact 📞 </h3>
