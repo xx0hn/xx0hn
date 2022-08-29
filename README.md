@@ -24,12 +24,10 @@
   <img src="https://img.shields.io/badge/shell-5391FE?style=flat-square&logo=powershell&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 
-
 </p>
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx0hn&" alt="xx0hn" /></p> -->
-
 
 <br>
 <h3 align="center">📚 Tech Blog 📚</h3>
@@ -38,11 +36,10 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xx0hn)](https://velog.io/@xx0hn)
   
-</div>
- 
+</div> 
 <br>
 
-<h3 align="center"> 📞 Contact 📞 </h3>
+<h3 align="center"> 📞 Contact Here📞 </h3>
 <p align="center">
  <!-- <a href="https://velog.io/@xx0hn"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xx0hn"/></a>&nbsp -->
   <a href="https://www.instagram.com/xx0hn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xx0hn/"/></a>&nbsp
